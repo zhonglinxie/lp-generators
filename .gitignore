@@ -49,3 +49,6 @@ examples/search/
 
 # Notebooks
 .ipynb_checkpoints/
+
+# Generated instances
+generated/*
